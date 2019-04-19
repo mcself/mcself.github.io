@@ -505,12 +505,12 @@
 <p>针对当前的代码，当autoplay=false时，不使用自动播放，当autoplay=true时，则自动播放。</p>
 <p>效果如下：</p>
 
-        <div id="aplayer-rdnuRkOG" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:46%;">
+        <div id="aplayer-rGaFEWKF" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:46%;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-rdnuRkOG"),
+            element: document.getElementById("aplayer-rGaFEWKF"),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -528,7 +528,7 @@
 <p>想了解更多参数的话，可以<a href="https://github.com/MoePlayer/hexo-tag-aplayer" target="_blank" rel="noopener">点击链接</a>前往Github了解。</p>
 <h4 id="如果是要在页面中添加音乐播放插件，直接在md文件中添加代码-1"><a href="#如果是要在页面中添加音乐播放插件，直接在md文件中添加代码-1" class="headerlink" title="如果是要在页面中添加音乐播放插件，直接在md文件中添加代码"></a>如果是要在页面中添加音乐播放插件，直接在md文件中添加代码</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% dplayer &quot;url=http://xxxxxxxxxx.mp4&quot; &quot;pic=http://xxxxxxxxxxxx.jpg&quot; &quot;loop=yes&quot;  &quot;theme=#FADFA3&quot; &quot;autoplay=false&quot; &quot;width=600px&quot; %&#125;</span><br></pre></td></tr></table></figure>
 <p>效果如下：</p>
-<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px; width:600px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"theme":"#FADFA3","loop":true,"video":{"url":"http://mcself.qiniudn.com/djitea.mp4","pic":"http://mcself.qiniudn.com/djitea.jpg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px; width:600px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"http://mcself.qiniudn.com/djitea.mp4","pic":"http://mcself.qiniudn.com/djitea.jpg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
 <p>针对当前的代码，当loop=yes时，插件循环播放，theme=#FADFA3表示插件的主题颜色设置，autoplay=false时，视频不会自动播放，true则播放。</p>
 <p>想了解更多参数的话，可以<a href="https://github.com/NextMoe/hexo-tag-dplayer" target="_blank" rel="noopener">点击链接</a>前往Github了解。</p>
 <h3 id="另一种方法"><a href="#另一种方法" class="headerlink" title="另一种方法"></a>另一种方法</h3><p>直接使用html代码就可以实现</p>
