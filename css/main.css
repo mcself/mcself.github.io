@@ -1845,7 +1845,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #26db4a;
+  background: #ff96ff;
 }
 .feed-link,
 .chat {
@@ -2912,7 +2912,7 @@ body {
 .menu .menu-item a {
   border-bottom-color: transparent !important;
   font-size: 14px;
-  color: #fff;
+  color: #666;
   border-radius: 4px;
   padding: 0px 12px;
   background: none;
@@ -2926,9 +2926,9 @@ body {
 }
 .menu .menu-item a:hover {
   transition-duration: 0.3s;
-  background: rgba(255,253,192,0.3);
+  background: rgba(249,249,249,0.3);
   border-bottom-color: #777;
-  color: #fff;
+  color: #555;
 }
 @media (max-width: 767px) {
   .menu {

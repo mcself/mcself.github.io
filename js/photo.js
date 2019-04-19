@@ -25,8 +25,8 @@ photo ={
             li += '<div class="card" style="width:224px">' +
                     '<div class="ImageInCard" style="height:'+ 224 * imageY / imageX + 'px">' +
 					//href 和 src 的链接地址是相册照片外部链接，也可以放博客目录里
-                      '<a data-fancybox="gallery" href="/cloud/photos/' + imgNameWithPattern + '?raw=true" data-caption="' + imgName + '">' +
-                        '<img src="/photos/' + imgNameWithPattern + '?raw=true"/>' +
+                      '<a data-fancybox="gallery" href="https://github.com/mcself/mcself.github.io/tree/master/photos/' + imgNameWithPattern + '?raw=true" data-caption="' + imgName + '">' +
+                        '<img src="https://github.com/mcself/mcself.github.io/tree/master/photos/' + imgNameWithPattern + '?raw=true"/>' +
                       '</a>' +
                     '</div>' +
                     // '<div class="TextInCard">' + imgName + '</div>' +  //图片下显示文件名
