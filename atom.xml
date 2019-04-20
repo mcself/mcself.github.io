@@ -18,8 +18,8 @@
   
   <entry>
     <title>挑战一下，尝试双语站点更新</title>
-    <link href="http://www.mcself.me/2019/04/17/improtant-decisions-about-me/"/>
-    <id>http://www.mcself.me/2019/04/17/improtant-decisions-about-me/</id>
+    <link href="http://www.mcself.me/posts/c6b76fe8.html"/>
+    <id>http://www.mcself.me/posts/c6b76fe8.html</id>
     <published>2019-04-17T14:18:01.000Z</published>
     <updated>2019-04-19T18:09:02.898Z</updated>
     
@@ -46,8 +46,8 @@
   
   <entry>
     <title>明·眼|人生胶片第一卷</title>
-    <link href="http://www.mcself.me/2018/12/03/%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E5%8D%B7/"/>
-    <id>http://www.mcself.me/2018/12/03/人生第一卷/</id>
+    <link href="http://www.mcself.me/posts/f2f5f5c0.html"/>
+    <id>http://www.mcself.me/posts/f2f5f5c0.html</id>
     <published>2018-12-03T15:19:00.000Z</published>
     <updated>2019-04-19T14:16:07.044Z</updated>
     
@@ -62,18 +62,18 @@
       <category term="摄影" scheme="http://www.mcself.me/categories/%E6%91%84%E5%BD%B1/"/>
     
     
-      <category term="日常" scheme="http://www.mcself.me/tags/%E6%97%A5%E5%B8%B8/"/>
-    
       <category term="胶片" scheme="http://www.mcself.me/tags/%E8%83%B6%E7%89%87/"/>
     
       <category term="摄影" scheme="http://www.mcself.me/tags/%E6%91%84%E5%BD%B1/"/>
+    
+      <category term="日常" scheme="http://www.mcself.me/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
   <entry>
     <title>明·言|运营商的霸王条款，就该让消费者买单？</title>
-    <link href="http://www.mcself.me/2017/10/09/%E8%BF%90%E8%90%A5%E5%95%86%E7%9A%84%E9%9C%B8%E7%8E%8B%E6%9D%A1%E6%AC%BE%EF%BC%8C%E5%B0%B1%E8%AF%A5%E8%AE%A9%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8D%95%EF%BC%9F/"/>
-    <id>http://www.mcself.me/2017/10/09/运营商的霸王条款，就该让消费者买单？/</id>
+    <link href="http://www.mcself.me/posts/383fffd1.html"/>
+    <id>http://www.mcself.me/posts/383fffd1.html</id>
     <published>2017-10-09T10:10:51.000Z</published>
     <updated>2019-04-19T14:15:30.436Z</updated>
     
@@ -95,8 +95,8 @@
   
   <entry>
     <title>明·言|制作可以动的视觉二维码</title>
-    <link href="http://www.mcself.me/2017/08/19/mark-visual-qr/"/>
-    <id>http://www.mcself.me/2017/08/19/mark-visual-qr/</id>
+    <link href="http://www.mcself.me/posts/8785761b.html"/>
+    <id>http://www.mcself.me/posts/8785761b.html</id>
     <published>2017-08-19T05:15:51.000Z</published>
     <updated>2019-04-19T14:18:39.056Z</updated>
     
@@ -125,8 +125,8 @@
   
   <entry>
     <title>明·想|只想从个人的经历，谈谈创业</title>
-    <link href="http://www.mcself.me/2017/08/18/Talking-about-innovation-and-Entrepreneurship/"/>
-    <id>http://www.mcself.me/2017/08/18/Talking-about-innovation-and-Entrepreneurship/</id>
+    <link href="http://www.mcself.me/posts/e45930a9.html"/>
+    <id>http://www.mcself.me/posts/e45930a9.html</id>
     <published>2017-08-18T08:35:04.000Z</published>
     <updated>2019-04-19T14:16:56.029Z</updated>
     
@@ -153,8 +153,8 @@
   
   <entry>
     <title>Markdown排版在微信公众号中的应用</title>
-    <link href="http://www.mcself.me/2017/08/15/Markdown%E6%8E%92%E7%89%88%E5%9C%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/"/>
-    <id>http://www.mcself.me/2017/08/15/Markdown排版在微信公众号中的应用/</id>
+    <link href="http://www.mcself.me/posts/81b612ea.html"/>
+    <id>http://www.mcself.me/posts/81b612ea.html</id>
     <published>2017-08-15T13:59:30.000Z</published>
     <updated>2019-04-19T14:18:52.947Z</updated>
     
@@ -185,12 +185,12 @@
   
   <entry>
     <title>用插件的方式添加音乐和视频</title>
-    <link href="http://www.mcself.me/2017/08/14/music-tag/"/>
-    <id>http://www.mcself.me/2017/08/14/music-tag/</id>
+    <link href="http://www.mcself.me/posts/e5c417a3.html"/>
+    <id>http://www.mcself.me/posts/e5c417a3.html</id>
     <published>2017-08-14T09:02:42.000Z</published>
     <updated>2019-04-19T14:17:04.449Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p> 今天尝试了一下按照<a href="http://feiyang.li/2017/02/24/Hexo-music-video/index.html" target="_blank" rel="noopener">Wing Lee</a>文章中介绍的另一种使用插件的方法添加音乐的教程，顺便get了加入视频的技能。</p><a id="more"></a><h3 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h3><p>首先我们需要准备的是这两个工具，Github地址如下：</p><ul><li><strong>hexo-tag-aplayer：</strong><a href="https://github.com/grzhan/hexo-tag-aplayer" target="_blank" rel="noopener">https://github.com/grzhan/hexo-tag-aplayer</a></li><li><p><strong>hexo-tag-dplayer：</strong><a href="https://github.com/NextMoe/hexo-tag-dplayer" target="_blank" rel="noopener">https://github.com/NextMoe/hexo-tag-dplayer</a></p><p>其中第一个是用来播放音乐的，第二个是用来播放视频的。</p></li></ul><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p><strong>在Git Bash中使用npm安装在博客根目录</strong></p><ul><li>使用<code>npm install hexo-tag-aplayer</code>命令安装音乐播放插件</li><li>使用<code>npm install hexo-tag-dplayer</code>命令安装视频播放插件</li></ul><h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><h4 id="如果是要在页面中添加音乐播放插件，直接在md文件中添加代码"><a href="#如果是要在页面中添加音乐播放插件，直接在md文件中添加代码" class="headerlink" title="如果是要在页面中添加音乐播放插件，直接在md文件中添加代码"></a>如果是要在页面中添加音乐播放插件，直接在md文件中添加代码</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% aplayer title author url [picture_url, narrow, autoplay, width:xxx, lrc:xxx] %&#125;</span><br></pre></td></tr></table></figure><p>针对当前的代码，当autoplay=false时，不使用自动播放，当autoplay=true时，则自动播放。</p><p>效果如下：</p>        <div id="aplayer-WaNoNVlt" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:46%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-WaNoNVlt"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "且听风吟",              author: "朴树",              url: "http://mcself.qiniudn.com/%E6%9C%B4%E6%A0%91%20-%20%E4%B8%94%E5%90%AC%E9%A3%8E%E5%90%9F.mp3",              pic: "http://mcself.qiniudn.com/srxh.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>想了解更多参数的话，可以<a href="https://github.com/MoePlayer/hexo-tag-aplayer" target="_blank" rel="noopener">点击链接</a>前往Github了解。</p><h4 id="如果是要在页面中添加音乐播放插件，直接在md文件中添加代码-1"><a href="#如果是要在页面中添加音乐播放插件，直接在md文件中添加代码-1" class="headerlink" title="如果是要在页面中添加音乐播放插件，直接在md文件中添加代码"></a>如果是要在页面中添加音乐播放插件，直接在md文件中添加代码</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% dplayer &quot;url=http://xxxxxxxxxx.mp4&quot; &quot;pic=http://xxxxxxxxxxxx.jpg&quot; &quot;loop=yes&quot;  &quot;theme=#FADFA3&quot; &quot;autoplay=false&quot; &quot;width=600px&quot; %&#125;</span><br></pre></td></tr></table></figure><p>效果如下：</p><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px; width:600px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"http://mcself.qiniudn.com/djitea.mp4","pic":"http://mcself.qiniudn.com/djitea.jpg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><p>针对当前的代码，当loop=yes时，插件循环播放，theme=#FADFA3表示插件的主题颜色设置，autoplay=false时，视频不会自动播放，true则播放。</p><p>想了解更多参数的话，可以<a href="https://github.com/NextMoe/hexo-tag-dplayer" target="_blank" rel="noopener">点击链接</a>前往Github了解。</p><h3 id="另一种方法"><a href="#另一种方法" class="headerlink" title="另一种方法"></a>另一种方法</h3><p>直接使用html代码就可以实现</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;div align=center&gt; &lt;video controls width=&apos;66%&apos; height=&apos;66%&apos;&gt;</span><br><span class="line">&lt;source src=&quot;http://xxxxxxxx.mp4&quot;  &gt;</span><br><span class="line">&lt;/video&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure><p>效果如下：(div代码是用来居中的)</p><div align="center"> <video controls width="66%" height="66%"><br><source src="http://mcself.qiniudn.com/djitea.mp4"><br></video></div><p>了解这些就可以在文章中<del>为所欲为</del>随心所欲添加音乐、视频了。</p><p>下一步准备尝试在网站中添加相册。</p><p>以上。</p><hr><p>文章参考了Wing Lee发布在博客中的文章《Hexo博客中插入音乐/视频》，原文链接：<a href="http://feiyang.li/2017/02/24/Hexo-music-video/index.html" target="_blank" rel="noopener">http://feiyang.li/2017/02/24/Hexo-music-video/index.html</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p> 今天尝试了一下按照<a href="http://feiyang.li/2017/02/24/Hexo-music-video/index.html" target="_blank" rel="noopener">Wing Lee</a>文章中介绍的另一种使用插件的方法添加音乐的教程，顺便get了加入视频的技能。</p><a id="more"></a><h3 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h3><p>首先我们需要准备的是这两个工具，Github地址如下：</p><ul><li><strong>hexo-tag-aplayer：</strong><a href="https://github.com/grzhan/hexo-tag-aplayer" target="_blank" rel="noopener">https://github.com/grzhan/hexo-tag-aplayer</a></li><li><p><strong>hexo-tag-dplayer：</strong><a href="https://github.com/NextMoe/hexo-tag-dplayer" target="_blank" rel="noopener">https://github.com/NextMoe/hexo-tag-dplayer</a></p><p>其中第一个是用来播放音乐的，第二个是用来播放视频的。</p></li></ul><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p><strong>在Git Bash中使用npm安装在博客根目录</strong></p><ul><li>使用<code>npm install hexo-tag-aplayer</code>命令安装音乐播放插件</li><li>使用<code>npm install hexo-tag-dplayer</code>命令安装视频播放插件</li></ul><h3 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h3><h4 id="如果是要在页面中添加音乐播放插件，直接在md文件中添加代码"><a href="#如果是要在页面中添加音乐播放插件，直接在md文件中添加代码" class="headerlink" title="如果是要在页面中添加音乐播放插件，直接在md文件中添加代码"></a>如果是要在页面中添加音乐播放插件，直接在md文件中添加代码</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% aplayer title author url [picture_url, narrow, autoplay, width:xxx, lrc:xxx] %&#125;</span><br></pre></td></tr></table></figure><p>针对当前的代码，当autoplay=false时，不使用自动播放，当autoplay=true时，则自动播放。</p><p>效果如下：</p>        <div id="aplayer-XmwlOUeB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;width:46%;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-XmwlOUeB"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "且听风吟",              author: "朴树",              url: "http://mcself.qiniudn.com/%E6%9C%B4%E6%A0%91%20-%20%E4%B8%94%E5%90%AC%E9%A3%8E%E5%90%9F.mp3",              pic: "http://mcself.qiniudn.com/srxh.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>想了解更多参数的话，可以<a href="https://github.com/MoePlayer/hexo-tag-aplayer" target="_blank" rel="noopener">点击链接</a>前往Github了解。</p><h4 id="如果是要在页面中添加音乐播放插件，直接在md文件中添加代码-1"><a href="#如果是要在页面中添加音乐播放插件，直接在md文件中添加代码-1" class="headerlink" title="如果是要在页面中添加音乐播放插件，直接在md文件中添加代码"></a>如果是要在页面中添加音乐播放插件，直接在md文件中添加代码</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% dplayer &quot;url=http://xxxxxxxxxx.mp4&quot; &quot;pic=http://xxxxxxxxxxxx.jpg&quot; &quot;loop=yes&quot;  &quot;theme=#FADFA3&quot; &quot;autoplay=false&quot; &quot;width=600px&quot; %&#125;</span><br></pre></td></tr></table></figure><p>效果如下：</p><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px; width:600px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"http://mcself.qiniudn.com/djitea.mp4","pic":"http://mcself.qiniudn.com/djitea.jpg"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><p>针对当前的代码，当loop=yes时，插件循环播放，theme=#FADFA3表示插件的主题颜色设置，autoplay=false时，视频不会自动播放，true则播放。</p><p>想了解更多参数的话，可以<a href="https://github.com/NextMoe/hexo-tag-dplayer" target="_blank" rel="noopener">点击链接</a>前往Github了解。</p><h3 id="另一种方法"><a href="#另一种方法" class="headerlink" title="另一种方法"></a>另一种方法</h3><p>直接使用html代码就可以实现</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;div align=center&gt; &lt;video controls width=&apos;66%&apos; height=&apos;66%&apos;&gt;</span><br><span class="line">&lt;source src=&quot;http://xxxxxxxx.mp4&quot;  &gt;</span><br><span class="line">&lt;/video&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure><p>效果如下：(div代码是用来居中的)</p><div align="center"> <video controls width="66%" height="66%"><br><source src="http://mcself.qiniudn.com/djitea.mp4"><br></video></div><p>了解这些就可以在文章中<del>为所欲为</del>随心所欲添加音乐、视频了。</p><p>下一步准备尝试在网站中添加相册。</p><p>以上。</p><hr><p>文章参考了Wing Lee发布在博客中的文章《Hexo博客中插入音乐/视频》，原文链接：<a href="http://feiyang.li/2017/02/24/Hexo-music-video/index.html" target="_blank" rel="noopener">http://feiyang.li/2017/02/24/Hexo-music-video/index.html</a></p>]]></content>
     
     <summary type="html">
     
@@ -209,8 +209,8 @@
   
   <entry>
     <title>在MD中加入网易云音乐</title>
-    <link href="http://www.mcself.me/2017/08/13/music/"/>
-    <id>http://www.mcself.me/2017/08/13/music/</id>
+    <link href="http://www.mcself.me/posts/4b6aace0.html"/>
+    <id>http://www.mcself.me/posts/4b6aace0.html</id>
     <published>2017-08-13T15:37:22.000Z</published>
     <updated>2019-04-19T14:18:04.603Z</updated>
     
@@ -233,8 +233,8 @@
   
   <entry>
     <title>宅在办公室的五一假期</title>
-    <link href="http://www.mcself.me/2017/08/13/%E5%AE%85%E5%9C%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%9A%84%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F/"/>
-    <id>http://www.mcself.me/2017/08/13/宅在办公室的五一假期/</id>
+    <link href="http://www.mcself.me/posts/caea898d.html"/>
+    <id>http://www.mcself.me/posts/caea898d.html</id>
     <published>2017-08-13T10:27:20.000Z</published>
     <updated>2019-04-19T14:15:56.460Z</updated>
     
@@ -257,8 +257,8 @@
   
   <entry>
     <title>年復一年</title>
-    <link href="http://www.mcself.me/2017/08/13/%E5%B9%B4%E5%BE%A9%E4%B8%80%E5%B9%B4/"/>
-    <id>http://www.mcself.me/2017/08/13/年復一年/</id>
+    <link href="http://www.mcself.me/posts/7fcf930b.html"/>
+    <id>http://www.mcself.me/posts/7fcf930b.html</id>
     <published>2017-08-13T10:12:40.000Z</published>
     <updated>2019-04-19T14:15:47.348Z</updated>
     
@@ -281,8 +281,8 @@
   
   <entry>
     <title>爬站无数，终于搭建完成</title>
-    <link href="http://www.mcself.me/2017/08/12/Hello-World-0/"/>
-    <id>http://www.mcself.me/2017/08/12/Hello-World-0/</id>
+    <link href="http://www.mcself.me/posts/53ab37c2.html"/>
+    <id>http://www.mcself.me/posts/53ab37c2.html</id>
     <published>2017-08-12T15:24:12.000Z</published>
     <updated>2019-04-19T14:19:01.331Z</updated>
     
